@@ -1,8 +1,7 @@
 # Happy Birthday Card
 
 
-## Getting Started
- * webpage
+## webpage deployed at
  ```
  https://sleepy-inlet-62861.herokuapp.com/
  ```
