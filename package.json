@@ -13,9 +13,6 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/csc309-fall-2020/js-library-xutian14/issues"
-  },
   "homepage": "https://github.com/csc309-fall-2020/js-library-xutian14#readme",
   "dependencies": {
     "express": "^4.17.1"
