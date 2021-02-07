@@ -1,5 +1,5 @@
 {
-  "name": "js-library-xutian14",
+  "name": "happybday",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,11 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/csc309-fall-2020/js-library-xutian14.git"
+    "url": "git+https://github.com/xutianyish/happybday.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/csc309-fall-2020/js-library-xutian14#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
