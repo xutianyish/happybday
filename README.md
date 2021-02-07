@@ -1,5 +1,12 @@
 # Happy Birthday Card
 
+
+## Getting Started
+ * webpage
+ ```
+ https://sleepy-inlet-62861.herokuapp.com/
+ ```
+
 ## Getting Started
  * Clone the repo
  ```
